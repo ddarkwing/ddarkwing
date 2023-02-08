@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Ddarkwing's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddarkwing&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddarkwing&layout=compact)](https://github.com/ddarkwing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddarkwing&layout=compact&theme=synthwave)](https://github.com/ddarkwing/github-readme-stats)
 
